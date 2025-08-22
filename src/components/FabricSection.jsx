@@ -11,7 +11,7 @@ import SpandexTwill from "../assets/galleryfabrics/SpandexTwill.jpg";
 import Viscos from "../assets/galleryfabrics/Viscos.jpg";
 import MicrofiberPlain from "../assets/galleryfabrics/MicrofiberPlain-Twill.jpg";
 import TaffetaTASLON from "../assets/galleryfabrics/TaffetaTASLON.jpg";
-import SCPoly from "../assets/galleryfabrics/SCPoly.jpg";
+import SCpoly from "../assets/galleryfabrics/SCpoly.jpg";
 import SCPFake from "../assets/galleryfabrics/SCPFake.jpg";
 import SCViscos from "../assets/galleryfabrics/SCViscos.jpg";
 import CPDenim from "../assets/galleryfabrics/CPDenim.jpg";
@@ -84,7 +84,7 @@ const PremiumFabricsSection = () => {
     hot: {
       title: "Hot Products",
       items: [
-        { id: 1, name: "COTTON, POLY, SPANDEX DENIM", image: SCPoly }, // Fixed reference
+        { id: 1, name: "COTTON, POLY, SPANDEX DENIM", image: SCpoly }, // Fixed reference
         {
           id: 2,
           name: "COTTON, POLY, SPANDEX FACK KNIT DENIM",

@@ -20,7 +20,7 @@ import SpandexTwill from "../assets/galleryfabrics/SpandexTwill.jpg";
 import Viscos from "../assets/galleryfabrics/Viscos.jpg";
 import MicrofiberPlain from "../assets/galleryfabrics/MicrofiberPlain-Twill.jpg";
 import TaffetaTASLON from "../assets/galleryfabrics/TaffetaTASLON.jpg";
-import SCPoly from "../assets/galleryfabrics/SCPoly.jpg";
+import SCpoly from "../assets/galleryfabrics/SCpoly.jpg";
 import SCPFake from "../assets/galleryfabrics/SCPFake.jpg";
 import SCViscos from "../assets/galleryfabrics/SCViscos.jpg";
 import CPDenim from "../assets/galleryfabrics/CPDenim.jpg";
@@ -44,7 +44,7 @@ const Footer = () => {
     { src: Viscos, name: "Viscos" },
     { src: MicrofiberPlain, name: "Microfiber Plain" },
     { src: TaffetaTASLON, name: "Taffeta Taslon" },
-    { src: SCPoly, name: "SC Poly" }, // Fixed reference
+    { src: SCpoly, name: "SC Poly" }, // Fixed reference
     { src: SCPFake, name: "SCP Fake" },
     { src: SCViscos, name: "SC Viscos" },
     { src: CPDenim, name: "CP Denim" },
